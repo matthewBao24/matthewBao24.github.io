@@ -1,7 +1,7 @@
 title: less is more
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Matthew Bao
-avatar: /logo1.png
+avatar: /logo2.png
 email: matthewbao24@outlook.com
 
 plugins:
@@ -29,15 +29,13 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo1.png
+#twitter:
+#  username: ngzhio
+#  card: summary
+logo: logo2.png
 social:
-  name: Shangzhi Huang
+  name: Matthew Bao
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/matthewBao24
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
