@@ -1,8 +1,8 @@
-title: Hamilton
+title: less is more
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+author: Matthew Bao
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: matthewbao24@outlook.com
 
 plugins:
   - jekyll-seo-tag
